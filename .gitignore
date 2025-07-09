@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.env
+
+# API keys / environment files
+.env
+*.env
+credentials.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+output/
+audio/
+assets/scenes/
+assets/background.png
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+
+# VSCode or PyCharm project files
+.vscode/
+.idea/
